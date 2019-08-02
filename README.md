@@ -235,7 +235,7 @@ pass and implementing "explicitness tracking" in Parsec's parser state.
 ### Copyright and licensing
 
 This package includes BurntSushi's language agnostic
-[TOML tests](https://github.com/BurntSushi/toml-test), which are WTFPL
+[TOML tests](https://github.com/BurntSushi/toml-test), which are MIT
 licensed.
 
 The TOML examples that are used as part of the benchmarks are copied
